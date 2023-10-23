@@ -39,3 +39,8 @@ table.my-table tr {
 table.my-table tr:nth-child(odd) {
   background-color: #ffffff;
 }
+
+footer {
+  clear: both;
+  text-align: center;
+}
